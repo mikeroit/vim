@@ -100,7 +100,7 @@ set nowrap
 "
 "set a colorscheme 
 set t_Co=256
-set background=dark
+set background=light
 colorscheme slate
 highlight Normal ctermbg=NONE
 highlight nonText ctermbg=NONE
